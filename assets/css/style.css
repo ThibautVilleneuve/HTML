@@ -40,8 +40,7 @@ Text Domain: polo
 @font-face {
     font-family: 'caviar_dreams';
     src: url('../fonts/CaviarDreams-webfont.woff2') format('woff2'),
-         url('../fonts/CaviarDreams-webfont.woff') format('woff'),
-         url('../fonts/CaviarDreams-webfont.ttf') format('truetype');
+         url('../fonts/CaviarDreams-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -399,7 +398,7 @@ a:hover {
 
 
 #gallery{
-    background: url(../img/gallery-bg.png) no-repeat;
+    background: url(../img/code.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -739,8 +738,8 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 
 
 #footer {
-    background: #00967f;
-    padding: 20px 0px 22px 0px;
+    background: #00555f;
+    padding: 2px 0px 2px 0px;
 }
 .footer-logo {
     font-size: 27px;
