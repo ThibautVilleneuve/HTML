@@ -777,6 +777,12 @@ input:-moz-placeholder, textarea:-moz-placeholder {
 /////////////////////////////////////////////////////////////////////*/
 
 
+@media all and (max-width: 770px) and (min-width: 375px) {
+    .widthTeam {
+        width: inherit !important;
+    }
+}
+
 /*1340px - 1170px*/
 
 @media all and (max-width: 1340px) and (min-width: 1170px) {
